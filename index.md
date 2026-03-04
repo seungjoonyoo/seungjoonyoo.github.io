@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[Home](/) · [Research](/research) · [C.V.](/cv)
+[Home](/) · [C.V.](/cv) · [Research](/research) · [Teaching](/teaching)
 
 * * *
 
@@ -13,11 +13,10 @@ My research examines how the intersection of political identities influences pol
 
 I can be reached at my email: seungjoonyoo [at] umass [dot] edu.
 
-
+---
 <p>
   <small>
-    Note: This website is made using the
-    <a href="https://github.com/orderedlist/minimal">minimalist theme</a>
-    created by Steve Smith. The design for this website is inspired by John J. cho and uses code from Shiro Kuriwaki and Jeremiah Cha.
+    About this website: This website is made using the <a href="https://github.com/orderedlist/minimal">minimalist theme</a>
+    created by Steve Smith. The design for this website is inspired by John J. Cho and uses code from Shiro Kuriwaki and Jeremiah Cha.
   </small>
 </p>
