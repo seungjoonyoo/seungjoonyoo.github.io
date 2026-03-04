@@ -22,11 +22,13 @@ title: Teaching
 - U.S. Foreign Policy (Spring 2023)
 - Introduction to World Politics (Spring 2021)
 
-*_* indicates a grader position._*
+<p>
+  <small>
+Asterick(*) indicates a grader position.
+  </small>
+</p>
 
 ---
-
-
    <p>
   <small>
     About this website: This website is made using the <a href="https://github.com/orderedlist/minimal">minimalist theme</a>

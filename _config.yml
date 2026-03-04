@@ -2,7 +2,7 @@
 
 
 locale: "en-US"
-title: "Seungjoon Yoo"
+title: "SEUNGJOON YOO"
 title_separator          : "-"
 name: "Seungjoon Yoo"
 url : "https://seungjoonyoo.github.io"
@@ -13,7 +13,7 @@ baseurl                  : "/"
 
 logo: /assets/img/2024_SeungjoonYoo.png
 
-description: "Ph.D. Candidate<br>Department of Political Science<br>University of Massachusetts Amherst"
+description: "Ph.D. Candidate<br><br>Department of Political Science<br><br>University of Massachusetts Amherst"
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
