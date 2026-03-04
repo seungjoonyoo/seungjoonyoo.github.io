@@ -9,4 +9,4 @@ title: C.V.
 
 # Curriculum Vitae
 
-[Download CV (PDF)](/260128_Resume 8.pdf)
+<iframe src="/cv/260128_Resume.pdf" width="100%" height="900px"></iframe>

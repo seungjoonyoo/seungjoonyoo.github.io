@@ -1,7 +1,17 @@
-title: Seungjoon Yoo
+# Site Settings
+
+
+locale: "en-US"
+title: "Seungjoon Yoo"
+title_separator          : "-"
+name: "Seungjoon Yoo"
+url : "https://seungjoonyoo.github.io"
+baseurl                  : "/"
+
+
 logo: /assets/img/2024_SeungjoonYoo.png
 description: Ph.D. Candidate in Political Science at the University of Massachusetts Amherst
 
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
