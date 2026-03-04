@@ -12,7 +12,7 @@ title: Teaching
 - Controversies in Public Policy (Summer 2025, Winter 2026)
 - Research Methods for Social and Political Science (Summer 2024, Winter 2025)
 
-## Teaching Assistant / Grader
+## Teaching Assistant
 
 - Controversies in Public Policy (Fall 2020, Fall 2022, Fall 2024)
 - Introduction to American Politics (Spring 2022, 2024)
