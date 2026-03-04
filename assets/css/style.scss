@@ -3,46 +3,105 @@
 
 @import "jekyll-theme-minimal";
 
-/* 전체 페이지 폭 */
+/* Layout */
 .wrapper {
-  max-width: 1100px;
+  max-width: 1120px;
+  margin: 0 auto;
 }
 
-/* 왼쪽 사이드바 크기 */
 header {
-  width: 320px;
+  width: 310px;
+  position: fixed;
+  top: 48px;
 }
 
-/* 오른쪽 콘텐츠 영역 */
 section {
-  width: 720px;
+  margin-left: 340px;
+  max-width: 740px;
+  padding: 0 22px 60px;
 }
 
-/* 링크 색 (academic website 스타일) */
+/* Typography */
+body {
+  padding: 48px;
+  color: #2b2b2b;
+  font: 15px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 350;
+}
+
+h1 {
+  font-size: 30px;
+  margin: 26px 0 14px;
+}
+
+h2 {
+  font-size: 20px;
+  margin: 24px 0 12px;
+  color: #3b3b3b;
+}
+
+h3 {
+  font-size: 17px;
+  margin: 20px 0 10px;
+  color: #4a4a4a;
+}
+
+p, ul, ol, table, pre, dl {
+  margin: 0 0 18px;
+}
+
+li {
+  margin: 8px 0;
+}
+
+/* Links */
 a {
-  color: #2c5aa0;
+  text-decoration: none;
+  font-weight: 450;
 }
 
 a:hover {
-  color: #1a3d73;
+  text-decoration: underline;
 }
 
-/* 제목 스타일 */
-h1, h2, h3 {
-  color: #222;
+/* Code blocks */
+pre {
+  padding: 10px 14px;
+  background: #fafafa;
+  border: 1px solid #e7e7e7;
+  border-radius: 6px;
+  overflow-x: auto;
 }
 
-/* 프로필 이미지 간격 */
+code {
+  font-size: 12px;
+}
+
+/* Profile image */
 header img {
-  margin-bottom: 15px;
+  max-width: 220px;
+  margin-bottom: 14px;
 }
 
-/* 텍스트 줄 간격 */
-body {
-  line-height: 1.6;
-}
+/* Responsive layout */
+@media print, screen and (max-width: 980px) {
+  body {
+    padding: 22px;
+  }
 
-/* 메뉴 링크 간격 */
-section a {
-  margin-right: 6px;
+  header {
+    position: static;
+    width: auto;
+    top: auto;
+  }
+
+  section {
+    margin-left: 0;
+    max-width: 100%;
+    padding: 0;
+  }
+
+  header img {
+    max-width: 180px;
+  }
 }
