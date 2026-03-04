@@ -10,7 +10,11 @@ baseurl                  : "/"
 
 
 logo: /assets/img/2024_SeungjoonYoo.png
-description: Ph.D. Candidate in Political Science at the University of Massachusetts Amherst
+
+description: >
+  Ph.D. Candidate  
+  Department of Political Science  
+  University of Massachusetts Amherst
 
 show_downloads: false
 google_analytics:
