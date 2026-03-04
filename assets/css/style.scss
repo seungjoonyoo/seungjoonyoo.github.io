@@ -79,8 +79,10 @@ code {
 
 /* Profile image */
 header img {
-  max-width: 220px;
-  margin-bottom: 14px;
+  width: 200px;
+  height: auto;
+  border-radius: 4px;
+  margin-bottom: 15px;
 }
 
 /* Responsive layout */
