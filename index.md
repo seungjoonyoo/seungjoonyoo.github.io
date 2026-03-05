@@ -29,8 +29,6 @@ title: Home
   {% endif %}
 </div>
 
-[Home](/) · [C.V.](/cv) · [Research](/research) · [Teaching](/teaching)
-
 * * *
 
 Welcome! I am a Ph.D. student in the Department of Political Science at the [University of Massachusetts Amherst](https://www.umass.edu/political-science/).

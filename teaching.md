@@ -29,7 +29,6 @@ title: Teaching
   {% endif %}
 </div>
 
-[Home](/) · [C.V.](/cv) · [Research](/research) · [Teaching](/teaching)
 
 ---
 

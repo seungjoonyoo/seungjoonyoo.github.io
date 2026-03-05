@@ -29,8 +29,6 @@ title: Research
   {% endif %}
 </div>
 
-[Home](/) · [C.V.](/cv) · [Research](/research) · [Teaching](/teaching)
-
 * * *
 
 ## Published Works
