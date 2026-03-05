@@ -11,7 +11,7 @@ title: Research
   {% endif %}
   ·
   {% if page.url == "/cv/" %}
-    <strong>C.V.</strong>
+    <strong>CV</strong>
   {% else %}
     <a href="/cv">C.V.</a>
   {% endif %}
@@ -33,7 +33,7 @@ title: Research
 
 ## Published Works
 
-1. **["Protecting Children with More Guns?: The Effect of School Shootings on Parents’ Gun Regulation Attitudes"](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.70130)**.  
+1. **["Protecting Children with More Guns?: The Effect of School Shootings on Parents’ Gun Regulation Attitudes"](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.70130)**  
    *Forthcoming at Social Science Quarterly.*
 
 ## Under Review

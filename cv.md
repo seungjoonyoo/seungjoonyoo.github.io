@@ -1,6 +1,6 @@
 ---
 layout: default
-title: C.V.
+title: CV
 ---
 
 <div style="font-size:1.4em; margin-bottom:12px;">
@@ -11,7 +11,7 @@ title: C.V.
   {% endif %}
   ·
   {% if page.url == "/cv/" %}
-    <strong>C.V.</strong>
+    <strong>CV</strong>
   {% else %}
     <a href="/cv">C.V.</a>
   {% endif %}
