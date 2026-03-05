@@ -3,6 +3,31 @@ layout: default
 title: Research
 ---
 
+<div style="font-size:1.4em; margin-bottom:12px;">
+  {% if page.url == "/" %}
+    <strong>Home</strong>
+  {% else %}
+    <a href="/">Home</a>
+  {% endif %}
+  ·
+  {% if page.url == "/cv/" %}
+    <strong>C.V.</strong>
+  {% else %}
+    <a href="/cv">C.V.</a>
+  {% endif %}
+  ·
+  {% if page.url == "/research/" %}
+    <strong>Research</strong>
+  {% else %}
+    <a href="/research">Research</a>
+  {% endif %}
+  ·
+  {% if page.url == "/teaching/" %}
+    <strong>Teaching</strong>
+  {% else %}
+    <a href="/teaching">Teaching</a>
+  {% endif %}
+</div>
 
 [Home](/) · [C.V.](/cv) · [Research](/research) · [Teaching](/teaching)
 
@@ -15,14 +40,16 @@ title: Research
 
 ## Under Review
 
-1. The Air Between Us: Immigrant Health Threat and Social Policy Attitudes in the COVID-19 Pandemic  
+- The Air Between Us: Immigrant Health Threat and Social Policy Attitudes in the COVID-19 Pandemic  
    (with Chansong Kim). *Under Review.*
 
 ## Working Papers
 
-1. From Child to Parent: Political Learning and Participation of Immigrant Families
+- From Child to Parent: Political Learning and Participation of Immigrant Families 
 
-2. Under the Umbrella? Anti-Muslim Prejudice and the Partisan Boundaries of the Norm of Equality 
+- From Hand to Mouth: Evaluating Learning Effectiveness of Oral Assessment in Social Science (with Samuel Stoddard)
+
+- Under the Umbrella? Anti-Muslim Prejudice and the Partisan Boundaries of the Norm of Equality 
    (with Mustafa Kusdil and Scott Blinder)
 
 ---

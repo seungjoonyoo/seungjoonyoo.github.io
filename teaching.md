@@ -3,6 +3,32 @@ layout: default
 title: Teaching
 ---
 
+<div style="font-size:1.4em; margin-bottom:12px;">
+  {% if page.url == "/" %}
+    <strong>Home</strong>
+  {% else %}
+    <a href="/">Home</a>
+  {% endif %}
+  ·
+  {% if page.url == "/cv/" %}
+    <strong>C.V.</strong>
+  {% else %}
+    <a href="/cv">C.V.</a>
+  {% endif %}
+  ·
+  {% if page.url == "/research/" %}
+    <strong>Research</strong>
+  {% else %}
+    <a href="/research">Research</a>
+  {% endif %}
+  ·
+  {% if page.url == "/teaching/" %}
+    <strong>Teaching</strong>
+  {% else %}
+    <a href="/teaching">Teaching</a>
+  {% endif %}
+</div>
+
 [Home](/) · [C.V.](/cv) · [Research](/research) · [Teaching](/teaching)
 
 ---
