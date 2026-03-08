@@ -34,11 +34,17 @@ h1 {
   margin: 26px 0 14px;
 }
 
+header h1 {
+  font-size: 24px;
+  line-height: 1.2;
+  margin: 18px 0 12px;
+}
+
 header h1 a {
   color: #2f5d8a;
   font-family: "Avenir Next", "Montserrat", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-weight: 600;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
