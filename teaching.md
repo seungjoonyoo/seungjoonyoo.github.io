@@ -13,7 +13,7 @@ title: Teaching
   {% if page.url == "/cv/" %}
     <strong>CV</strong>
   {% else %}
-    <a href="/cv">C.V.</a>
+    <a href="/cv">CV</a>
   {% endif %}
   ·
   {% if page.url == "/research/" %}

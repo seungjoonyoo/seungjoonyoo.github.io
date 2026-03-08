@@ -13,7 +13,7 @@ baseurl                  : "/"
 
 logo: /assets/img/2024_SeungjoonYoo.png
 
-description: "<b>Ph.D. Candidate<b><br><br>Department of Political Science<br>University of Massachusetts Amherst"
+description: "<stong>Ph.D. Candidate<strong><br><br>Department of Political Science<br>University of Massachusetts Amherst"
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
