@@ -33,7 +33,7 @@ title: CV
 
 # Curriculum Vitae
 
-<iframe src="/cv/260128_Resume.pdf" width="100%" height="900px"></iframe>
+<iframe src="/cv/CV_Yoo_April2026.pdf" width="100%" height="900px"></iframe>
 
 ---
 <p>
