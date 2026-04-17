@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 
-<div style="font-size:1.4em; margin-bottom:12px;">
+<div style="font-size:1.3em; margin-bottom:12px;">
   {% if page.url == "/" %}
     <strong>Home</strong>
   {% else %}
@@ -31,17 +31,17 @@ title: Research
 
 * * *
 
-## Published Works
+### Published Works
 
 1. **["Protecting Children with More Guns?: The Effect of School Shootings on Parents’ Gun Regulation Attitudes"](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.70130)**  
    *Forthcoming at Social Science Quarterly.*
 
-## Under Review
+### Under Review
 
 - The Air Between Us: Immigrant Health Threat and Social Policy Attitudes in the COVID-19 Pandemic  
    (with Chansong Kim). *Under Review.*
 
-## Working Papers
+### Working Papers
 
 - From Child to Parent: Political Learning and Participation of Immigrant Families 
 

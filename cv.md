@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 
-<div style="font-size:1.4em; margin-bottom:12px;">
+<div style="font-size:1.3em; margin-bottom:12px;">
   {% if page.url == "/" %}
     <strong>Home</strong>
   {% else %}
@@ -31,7 +31,7 @@ title: CV
 
 * * *
 
-# Curriculum Vitae
+## Curriculum Vitae
 
 <iframe src="/cv/CV_Yoo_April2026.pdf" width="100%" height="900px"></iframe>
 

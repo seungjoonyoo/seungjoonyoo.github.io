@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 ---
 
-<div style="font-size:1.4em; margin-bottom:12px;">
+<div style="font-size:1.3em; margin-bottom:12px;">
   {% if page.url == "/" %}
     <strong>Home</strong>
   {% else %}
@@ -32,12 +32,12 @@ title: Teaching
 
 ---
 
-## Teaching Associate
+### Teaching Associate
 
 - Controversies in Public Policy (Summer 2025, Winter 2026)
 - Research Methods for Social and Political Science (Summer 2024, Winter 2025)
 
-## Teaching Assistant
+### Teaching Assistant
 
 - Controversies in Public Policy (Fall 2020, Fall 2022, Fall 2024)
 - Introduction to American Politics (Spring 2022, 2024)

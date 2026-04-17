@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<div style="font-size:1.4em; margin-bottom:12px;">
+<div style="font-size:1.3em; margin-bottom:12px;">
   {% if page.url == "/" %}
     <strong>Home</strong>
   {% else %}
