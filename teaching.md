@@ -30,7 +30,7 @@ title: Teaching
 </div>
 
 
----
+* * *
 
 ### Teaching Associate
 
