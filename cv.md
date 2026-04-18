@@ -33,7 +33,7 @@ title: CV
 
 ## Curriculum Vitae
 
-<p><a href="/cv/CV_Yoo_April2026.pdf" target="_blank" rel="noopener">Curriculum Vitae (PDF)</a></p>
+<iframe src="/cv/CV_Yoo_April2026.pdf" width="90%" height="900px"></iframe>
 
 ---
 <p>
