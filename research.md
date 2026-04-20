@@ -54,6 +54,6 @@ title: Research
    <p>
   <small>
     About this website: This website is made using the <a href="https://github.com/orderedlist/minimal">minimalist theme</a>
-    created by Steve Smith. The design for this website is inspired by John J. Cho and uses code from Shiro Kuriwaki and Jeremiah Cha.
+    created by Steve Smith. The design for this website is inspired by John J. Cho and uses code from Shiro Kuriwaki.
   </small>
 </p>

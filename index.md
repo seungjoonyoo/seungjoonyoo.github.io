@@ -39,14 +39,12 @@ In my dissertation project, I examine how the transition to parenthood and the s
 
 I hold B.A. in Political Science and International Relations from [Carleton College](https://www.carleton.edu/) and M.A. in Political Science from [Sogang University](https://www.sogang.ac.kr/en/home) in the Republic of Korea. 
 
-My full name is pronounced as *soong-june*; you may also call me Joon.
-
-I can be reached at my email: seungjoonyoo [at] umass [dot] edu.
+My full name is pronounced as *soong-june*; you may also call me Joon. I can be reached at my email: seungjoonyoo [at] umass [dot] edu.
 
 ---
 <p>
   <small>
     About this website: This website is made using the <a href="https://github.com/orderedlist/minimal">minimalist theme</a>
-    created by Steve Smith. The design for this website is inspired by John J. Cho and uses code from Shiro Kuriwaki and Jeremiah Cha.
+    created by Steve Smith. The design for this website is inspired by John J. Cho and uses code from Shiro Kuriwaki.
   </small>
 </p>
