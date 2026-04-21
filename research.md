@@ -43,9 +43,9 @@ title: Research
 
 ### Working Papers
 
-- From Child to Parent: Political Learning and Participation of Immigrant Families 
+- Political Learning and Participation across Immigrant Generations: Evidence from Asian Americans
 
-- From Hand to Mouth: Evaluating Learning Effectiveness of Oral Assessment in Social Science (with Samuel Stoddard)
+- From Hand to Mouth: Evaluating Learning Effectiveness of Oral Exam in Social Science Courses (with Samuel Stoddard)
 
 - Under the Umbrella? Anti-Muslim Prejudice and the Partisan Boundaries of the Norm of Equality 
    (with Mustafa Kusdil and Scott Blinder)
